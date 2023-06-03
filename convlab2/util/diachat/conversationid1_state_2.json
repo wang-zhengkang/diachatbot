@@ -1,0 +1,213 @@
+    {
+        "conversationId": 1,
+        "type": [
+            "知识科普"
+        ],
+        "agentId": "59561745",
+        "utterances": [
+            {
+                "utteranceId": 1,
+                "conversationId": 1,
+                "sequenceNo": 1,
+                "utterance": "我吃莲藕排骨还喝汤，血糖升高，是不是不能喝呀？",
+                "agentRole": "User",
+                "annotation": [
+                    {
+                        "act_label": "Inform",
+                        "slot_values": [
+                            {
+                                "domain": "饮食",
+                                "slot": "饮食名",
+                                "value": "莲藕排骨",
+                                "pos": "2-6"
+                            },
+                            {
+                                "domain": "饮食",
+                                "slot": "饮食名",
+                                "value": "汤",
+                                "pos": "8-9"
+                            }
+                        ]
+                    },
+                    {
+                        "act_label": "Inform",
+                        "slot_values": [
+                            {
+                                "domain": "问题",
+                                "slot": "血糖值",
+                                "value": "升高",
+                                "pos": "12-14"
+                            }
+                        ]
+                    },
+                    {
+                        "act_label": "AskForSure",
+                        "slot_values": [
+                            {
+                                "domain": "行为",
+                                "slot": "行为名",
+                                "value": "喝",
+                                "pos": "7-8"
+                            }
+                        ]
+                    }
+                ],
+                "user_state": [
+                    [
+                        "饮食",
+                        "饮食名",
+                        "莲藕排骨"
+                    ],
+                    [
+                        "饮食",
+                        "饮食名",
+                        "汤"
+                    ],
+                    [
+                        "问题",
+                        "血糖值",
+                        "升高"
+                    ]
+                ]
+            },
+            {
+                "utteranceId": 2,
+                "conversationId": 1,
+                "sequenceNo": 2,
+                "utterance": "不是，这个考虑你喝的汤有点多",
+                "agentRole": "Doctor",
+                "annotation": [
+                    {
+                        "act_label": "Deny",
+                        "slot_values": [
+                            {
+                                "domain": "",
+                                "slot": "",
+                                "value": "",
+                                "pos": ""
+                            }
+                        ]
+                    },
+                    {
+                        "act_label": "Explanation",
+                        "slot_values": [
+                            {
+                                "domain": "饮食",
+                                "slot": "饮食名",
+                                "value": "汤",
+                                "pos": "10-11"
+                            },
+                            {
+                                "domain": "饮食",
+                                "slot": "饮食量",
+                                "value": "多",
+                                "pos": "13-14"
+                            }
+                        ]
+                    }
+                ],
+                "sys_state_init": {
+					"现状": [
+						[["饮食","饮食名","莲藕排骨"],["饮食","饮食名","汤"],["问题","血糖值","升高"]],
+					
+					]
+                },
+                "sys_state": {
+					"现状": [
+						[["饮食","饮食名","莲藕排骨"],["饮食","饮食名","汤"],["问题","血糖值","升高"]],
+					
+					],
+					"解释": [
+						[["饮食","饮食名","汤"],["饮食","饮食量","多"]],
+					]
+ 
+                },
+            },
+            {
+                "utteranceId": 3,
+                "conversationId": 1,
+                "sequenceNo": 3,
+                "utterance": "哦，少喝还是可以的，对吧？",
+                "agentRole": "User",
+                "annotation": [
+                    {
+                        "act_label": "AskForSure",
+                        "slot_values": [
+                            {
+                                "domain": "行为",
+                                "slot": "行为名",
+                                "value": "少喝",
+                                "pos": "2-4"
+                            }
+                        ]
+                    }
+                ],
+                "user_state": [
+                    [
+                        "饮食",
+                        "饮食名",
+                        "莲藕排骨"
+                    ],
+                    [
+                        "饮食",
+                        "饮食名",
+                        "汤"
+                    ],
+                    [
+                        "问题",
+                        "血糖值",
+                        "升高"
+                    ],
+                    [
+                        "饮食",
+                        "饮食名",
+                        "汤"
+                    ],
+                    [
+                        "饮食",
+                        "饮食量",
+                        "多"
+                    ]
+                ]
+            },
+            {
+                "utteranceId": 4,
+                "conversationId": 1,
+                "sequenceNo": 4,
+                "utterance": "是的",
+                "agentRole": "Doctor",
+                "annotation": [
+                    {
+                        "act_label": "Assure",
+                        "slot_values": [
+                            {
+                                "domain": "",
+                                "slot": "",
+                                "value": "",
+                                "pos": ""
+                            }
+                        ]
+                    }
+                ],
+                "sys_state_init": {
+					"现状": [
+						[["饮食","饮食名","莲藕排骨"],["饮食","饮食名","汤"],["问题","血糖值","升高"]],
+					
+					],
+					"解释": [
+						[["饮食","饮食名","汤"],["饮食","饮食量","多"]],
+					]
+                },
+                "sys_state": {
+					"现状": [
+						[["饮食","饮食名","莲藕排骨"],["饮食","饮食名","汤"],["问题","血糖值","升高"]],
+					
+					],
+					"解释": [
+						[["饮食","饮食名","汤"],["饮食","饮食量","多"]],
+					]
+ 
+                },
+            }
+		]
+    },

@@ -1,0 +1,1 @@
+from convlab2.nlg.sclstm.diachat.sc_lstm import SCLSTM

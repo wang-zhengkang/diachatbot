@@ -1,0 +1,14 @@
+{
+	"batchsz": 256,
+	"epoch": 32,
+	"lr": 0.001,
+	"save_dir": "convlab2/policy/vhus/diachat_DG_BiGRU/save",
+	"log_dir": "convlab2/policy/vhus/diachat_DG_BiGRU/log",
+	"print_per_batch": 6,
+	"save_per_epoch": 5,
+	"hu_dim": 500,
+	"eu_dim": 500,
+	"max_ulen": 20,
+	"alpha": 0.01,
+	"load": "convlab2/policy/vhus/diachat_DG_BiGRU/save/best"
+}

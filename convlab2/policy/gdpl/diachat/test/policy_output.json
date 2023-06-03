@@ -1,0 +1,4163 @@
+{
+    "0": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "1": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "10": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "运动名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "100": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "强度",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "101": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "102": {
+        "golden_action": [
+            [
+                "Advice",
+                "饮食",
+                "饮食量",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "103": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "104": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "105": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "时间",
+                "none"
+            ],
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "106": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "107": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "108": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "109": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "11": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "饮食",
+                "饮食名",
+                "none"
+            ],
+            [
+                "AskForSure",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "110": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "111": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "112": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "113": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "114": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "115": {
+        "golden_action": [
+            [
+                "Explanation",
+                "饮食",
+                "饮食名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "116": {
+        "golden_action": [
+            [
+                "Explanation",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "117": {
+        "golden_action": [
+            [
+                "AskFor",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "118": {
+        "golden_action": [
+            [
+                "AskFor",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "119": {
+        "golden_action": [
+            [
+                "Explanation",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "12": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "运动",
+                "时间",
+                "none"
+            ],
+            [
+                "AskForSure",
+                "运动",
+                "运动名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "120": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "121": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "122": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "123": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "治疗",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "124": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "125": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "126": {
+        "golden_action": [
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "127": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Advice",
+                "问题",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "128": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "持续时长",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "129": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "13": {
+        "golden_action": [
+            [
+                "AdviceNot",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "AdviceNot",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "130": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "131": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "132": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "133": {
+        "golden_action": [
+            [
+                "AskHow",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "134": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "135": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "136": {
+        "golden_action": [
+            [
+                "AskFor",
+                "行为",
+                "效果",
+                "none"
+            ],
+            [
+                "AskFor",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "137": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "138": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "139": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "14": {
+        "golden_action": [
+            [
+                "GeneralAdvice",
+                "治疗",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralAdvice",
+                "运动",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralAdvice",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "140": {
+        "golden_action": [
+            [
+                "Explanation",
+                "运动",
+                "强度",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "141": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "强度",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "142": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "143": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "144": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "145": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "146": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "147": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "148": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "149": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "15": {
+        "golden_action": [
+            [
+                "AdviceNot",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "150": {
+        "golden_action": [
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "151": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "152": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "153": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "154": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "频率",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "155": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "156": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "157": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "158": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "159": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "16": {
+        "golden_action": [
+            [
+                "Advice",
+                "饮食",
+                "饮食名",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "饮食量",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "成份量",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "成分",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "160": {
+        "golden_action": [
+            [
+                "AskFor",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "161": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "162": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "163": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "164": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "165": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "166": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "167": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "168": {
+        "golden_action": [
+            [
+                "AskHow",
+                "运动",
+                "运动名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "169": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "17": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "运动名",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "170": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "运动名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "171": {
+        "golden_action": [
+            [
+                "Explanation",
+                "运动",
+                "强度",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "172": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "173": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "174": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "运动名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "175": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "176": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "治疗名",
+                "none"
+            ],
+            [
+                "Advice",
+                "治疗",
+                "部位",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "177": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "178": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "179": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "持续时长",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "18": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "180": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "181": {
+        "golden_action": [
+            [
+                "AskHow",
+                "治疗",
+                "时间",
+                "none"
+            ],
+            [
+                "AskHow",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "182": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "183": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "184": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "185": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ],
+            [
+                "Advice",
+                "治疗",
+                "用药治疗频率",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "186": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "187": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "188": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "189": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "19": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "190": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "191": {
+        "golden_action": [
+            [
+                "AdviceNot",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "192": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "193": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "治疗名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "194": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "检查值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "195": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Advice",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "196": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "成份量",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "成分",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "197": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Advice",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "198": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "199": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "2": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "20": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "持续时长",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "200": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "201": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "治疗",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "运动",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "202": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "效果",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "203": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "204": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "持续时长",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "205": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "206": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "效果",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "207": {
+        "golden_action": [
+            [
+                "AskHow",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "208": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "209": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "21": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "210": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "211": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "212": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "行为",
+                "效果",
+                "none"
+            ],
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "213": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "214": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "215": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "治疗名",
+                "none"
+            ],
+            [
+                "Advice",
+                "治疗",
+                "部位",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "216": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "217": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "药品类型",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "218": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "治疗",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "219": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "22": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "220": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "221": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "用药治疗频率",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "222": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "223": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "224": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "225": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "226": {
+        "golden_action": [
+            [
+                "Advice",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "饮食名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "227": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "228": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "229": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "23": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "230": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "用药量",
+                "none"
+            ],
+            [
+                "Advice",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "231": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "232": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "233": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "234": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "235": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "236": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "237": {
+        "golden_action": [
+            [
+                "AskFor",
+                "饮食",
+                "饮食名",
+                "none"
+            ],
+            [
+                "AskForSure",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "AskForSure",
+                "问题",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "238": {
+        "golden_action": [
+            [
+                "AskFor",
+                "运动",
+                "运动名",
+                "none"
+            ],
+            [
+                "AskFor",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "239": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "用药量",
+                "none"
+            ],
+            [
+                "Advice",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Advice",
+                "运动",
+                "运动名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "运动",
+                "强度",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "24": {
+        "golden_action": [
+            [
+                "GeneralAdvice",
+                "运动",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralAdvice",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "240": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "241": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "242": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "时间",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "243": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "244": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskForSure",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "245": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "运动",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "246": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "247": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "248": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "249": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "25": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "250": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "251": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "252": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "253": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "254": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "255": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "256": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "257": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "258": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "259": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "26": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "检查值",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "260": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "药品类型",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "261": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "262": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "治疗名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "263": {
+        "golden_action": [
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "264": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "效果",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "治疗名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "265": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "部位",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "266": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "部位",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "267": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "268": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "269": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "27": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "270": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "271": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "272": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "273": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "274": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "275": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "276": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "277": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "278": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "行为",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "279": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "28": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "280": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "281": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "282": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "283": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "284": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "285": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "286": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "检查值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "287": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "288": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "治疗",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "289": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "29": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "290": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "效果",
+                "none"
+            ],
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "3": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "30": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "31": {
+        "golden_action": [
+            [
+                "Advice",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "32": {
+        "golden_action": [
+            [
+                "Advice",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "33": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "持续时长",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "34": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "35": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "36": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "37": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "38": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "39": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "4": {
+        "golden_action": [
+            [
+                "AskFor",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "40": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "41": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "检查项",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "42": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "43": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "44": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "45": {
+        "golden_action": [
+            [
+                "GeneralAdvice",
+                "治疗",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "46": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "行为",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "47": {
+        "golden_action": [
+            [
+                "GeneralAdvice",
+                "治疗",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralAdvice",
+                "运动",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralAdvice",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "48": {
+        "golden_action": [
+            [
+                "Advice",
+                "饮食",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "49": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "治疗",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "运动",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "5": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "50": {
+        "golden_action": [
+            [
+                "AskHow",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "51": {
+        "golden_action": [
+            [
+                "AskFor",
+                "饮食",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "饮食",
+                "饮食量",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "52": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "53": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "部位",
+                "none"
+            ],
+            [
+                "AdviceNot",
+                "治疗",
+                "治疗名",
+                "none"
+            ],
+            [
+                "AdviceNot",
+                "治疗",
+                "部位",
+                "none"
+            ],
+            [
+                "AdviceNot",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "效果",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "治疗名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "部位",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "54": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "55": {
+        "golden_action": [
+            [
+                "AskFor",
+                "基本信息",
+                "体重",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "56": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "57": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "58": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "59": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "效果",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "6": {
+        "golden_action": [
+            [
+                "AskForSure",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskForSure",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "60": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "61": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "效果",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "问题",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "62": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "持续时长",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "63": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "64": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "疾病",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "65": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "66": {
+        "golden_action": [
+            [
+                "GeneralExplanation",
+                "行为",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "67": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "68": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "69": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "7": {
+        "golden_action": [
+            [
+                "GeneralAdvice",
+                "运动",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralAdvice",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "70": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "持续时长",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "71": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "持续时长",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "72": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "持续时长",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "73": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "74": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "75": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "76": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "77": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "78": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "79": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "8": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "80": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "81": {
+        "golden_action": [
+            [
+                "Advice",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Advice",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "82": {
+        "golden_action": [
+            [
+                "AskFor",
+                "基本信息",
+                "年龄",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "83": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "84": {
+        "golden_action": [
+            [
+                "Advice",
+                "治疗",
+                "药品",
+                "none"
+            ],
+            [
+                "Advice",
+                "问题",
+                "疾病",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "85": {
+        "golden_action": [
+            [
+                "Explanation",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "86": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "87": {
+        "golden_action": [
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "检查值",
+                "none"
+            ],
+            [
+                "Explanation",
+                "治疗",
+                "检查项",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "88": {
+        "golden_action": [
+            [
+                "Advice",
+                "行为",
+                "行为名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "89": {
+        "golden_action": [
+            [
+                "Chitchat",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "9": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "90": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "GeneralExplanation",
+                "饮食",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "91": {
+        "golden_action": [
+            [
+                "AdviceNot",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "92": {
+        "golden_action": [
+            [
+                "Explanation",
+                "饮食",
+                "成份量",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "成分",
+                "none"
+            ],
+            [
+                "Explanation",
+                "饮食",
+                "饮食名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "93": {
+        "golden_action": [
+            [
+                "AskFor",
+                "问题",
+                "血糖值",
+                "none"
+            ],
+            [
+                "Deny",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "94": {
+        "golden_action": [
+            [
+                "AskHow",
+                "none",
+                "none",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "症状",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "95": {
+        "golden_action": [
+            [
+                "Explanation",
+                "问题",
+                "时间",
+                "none"
+            ],
+            [
+                "Explanation",
+                "问题",
+                "血糖值",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "96": {
+        "golden_action": [
+            [
+                "AskFor",
+                "行为",
+                "效果",
+                "none"
+            ],
+            [
+                "AskFor",
+                "行为",
+                "行为名",
+                "none"
+            ],
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "97": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "强度",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "98": {
+        "golden_action": [
+            [
+                "Advice",
+                "运动",
+                "强度",
+                "none"
+            ],
+            [
+                "Advice",
+                "运动",
+                "运动名",
+                "none"
+            ]
+        ],
+        "prediction": []
+    },
+    "99": {
+        "golden_action": [
+            [
+                "Assure",
+                "none",
+                "none",
+                "none"
+            ]
+        ],
+        "prediction": []
+    }
+}

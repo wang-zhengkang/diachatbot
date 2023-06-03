@@ -1,0 +1,25 @@
+{
+  "data_dir": "data/Doctor_data",
+  "output_dir": "output/doctor",
+  "zipped_model_path": "output/doctor/bert_all.zip",
+  "log_dir": "log/doctor",
+  "DEVICE": "cuda:0",
+  "seed": 2019,
+  "cut_sen_len": 60,
+  "use_bert_tokenizer": false,
+  "model": {
+    "finetune": true,
+    "context": false,
+    "context_grad": false,
+    "pretrained_weights": "hfl/chinese-bert-wwm-ext",
+    "check_step": 500,
+    "max_step": 5000,
+    "batch_size": 20,
+    "learning_rate": 3e-5,
+    "adam_epsilon": 1e-8,
+    "warmup_steps": 0,
+    "weight_decay": 0.0,
+    "dropout": 0.1,
+    "hidden_units": 768
+  }
+}

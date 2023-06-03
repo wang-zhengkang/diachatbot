@@ -1,0 +1,15 @@
+{
+	"batchsz": 32,
+	"gamma": 0.99,
+	"epsilon": 0.2,
+	"tau": 0.95,
+	"policy_lr": 0.0001,
+	"value_lr": 0.00005,
+	"save_dir": "convlab2/dpl/ppo/diachat/save",
+	"log_dir": "convlab2/dpl/ppo/diachat/log",
+	"save_per_epoch": 5,
+	"update_round": 5,
+	"h_dim": 100,
+	"hv_dim": 50,
+	"load": "convlab2/dpl/ppo/diachat/load"
+}

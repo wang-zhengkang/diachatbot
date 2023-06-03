@@ -1,0 +1,32 @@
+{
+  "基本信息": {
+    "身高": "",
+    "体重": "",
+    "年龄": "",
+    "性别": "",
+    "既往史": []
+  },
+  "现状": [
+	[["domain1","slot2","value"],["domain2","slot2","value"]], //对应act_lable里的作为arguments的slot-value列表
+	[["domain1","slot1","value1"],["domain1","slot2","value"],["domain3","slot1","value"]],
+  
+  ],
+  "解释": [
+	[["domain1","slot2","value"],["domain2","slot2","value"]],
+	[["domain1","slot1","value1"],["domain1","slot2","value"],["domain3","slot1","value"]],
+  
+  ],
+  "建议": [
+    [["domain1","slot2","value"],["domain2","slot2","value"]],
+	[["domain1","slot2","value",false],["domain2","slot2","value",false]]  //对应不建议
+  ]
+}
+
+#以下是示例：
+{
+	"现状": [
+		[["饮食","饮食名","莲藕排骨"],["饮食","饮食名","汤"],["问题","血糖值","升高"]],
+	
+	]
+}
+
